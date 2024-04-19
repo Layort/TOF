@@ -7,7 +7,7 @@ get_segmentation: matlab
 render_text: ./requirements.txt
 
 ## LTOS dataset 
-[link](https://baidu.com)
+[download link](https://www.alipan.com/s/r2gaZR5C4Ak)
 
 
 ## Data process
