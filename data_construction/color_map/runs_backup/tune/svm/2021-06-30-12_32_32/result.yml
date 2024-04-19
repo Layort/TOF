@@ -1,0 +1,21 @@
+top1_acc: !!python/object/apply:numpy.core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  +6BhK3ly7D8=
+top5_acc: !!python/object/apply:numpy.core.multiarray.scalar
+- *id001
+- !!binary |
+  bB+WH2zc7z8=

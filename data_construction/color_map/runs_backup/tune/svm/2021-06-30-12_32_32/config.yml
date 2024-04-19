@@ -1,0 +1,5 @@
+!!python/object:argparse.Namespace
+C: 8000.0
+data: ./data/data_except_bgw_400.npy
+log_dir: ./runs/tune/svm
+num_folds: 5

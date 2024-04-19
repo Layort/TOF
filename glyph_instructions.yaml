@@ -1,0 +1,13 @@
+# Instructions:
+#   rendered_txt_values: ["Cat","Dog"]
+#   # the width of the OCR box (i.e., the font size)
+#   width_values: [0.2, 0.2]
+#   # the width-height ratio of the OCR box, if the ratio == 0, the ratio will be set as optimal ratio
+#   ratio_values: [0, 0]
+#   # the relative coordinates of the top left corner of the OCR box
+#   top_left_x_values: [0.2, 0.6]
+#   top_left_y_values: [0.3, 0.3]
+#   # the yaw rotation angle of the OCR box ([-20, 20])
+#   yaw_values: [0, 0]
+#   # the number of rows where the text will be placed
+#   num_rows_values: [1, 1]

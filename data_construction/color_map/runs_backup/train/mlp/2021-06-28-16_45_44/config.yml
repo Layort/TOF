@@ -1,0 +1,8 @@
+!!python/object:argparse.Namespace
+data: ./data/data_except_bgw_400.npy
+device: cuda:0
+epochs: 1000
+hidden_dim: 18
+log_dir: ./runs/test/train/mlp/epochs=1000
+lr: 0.1
+wd: 0.0
